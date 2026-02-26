@@ -28,5 +28,6 @@ https://makerworld.com/en/models/600219-nashole-a-small-form-factor-sff-nas-pc-c
 https://makerworld.com/en/models/1233819-low-cost-itx-4-bay-nas-case-compatible-with-huawei?from=search#profileId-1455913
 
 https://makerworld.com/en/models/1763342-wan-ke-xiao-qu-nas-case-four-bay-3-5-inch-hdd-encl?from=search#profileId-1876126
++ https://makerworld.com/en/models/1165457-3-5-inch-server-hard-drive-caddy-huawei-compatible#profileId-1172692
 
 https://www.printables.com/model/1583181-mini-itx-nas-case-hot-swap/files
