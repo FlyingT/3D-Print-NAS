@@ -31,3 +31,11 @@ https://makerworld.com/en/models/1763342-wan-ke-xiao-qu-nas-case-four-bay-3-5-in
 https://makerworld.com/en/models/1165457-3-5-inch-server-hard-drive-caddy-huawei-compatible#profileId-1172692
 
 https://www.printables.com/model/1583181-mini-itx-nas-case-hot-swap/files
+
+https://www.printables.com/model/1145091-6-bays-miniitx-nas
+
+https://www.printables.com/model/961314-4-bay-itx-hot-swap-nas-case
+
+https://www.thingiverse.com/thing:7289855
+
+https://www.thingiverse.com/thing:4834387
