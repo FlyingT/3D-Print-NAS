@@ -39,3 +39,9 @@ https://www.printables.com/model/961314-4-bay-itx-hot-swap-nas-case
 https://www.thingiverse.com/thing:7289855
 
 https://www.thingiverse.com/thing:4834387
+
+https://makerworld.com.cn/zh/models/1623940-lao-zhang-8hao-3-5cun-nasji-xiang-zhi-chi-17-17-19#profileId-1777939
+
+https://makerworld.com.cn/zh/models/1458942-nasji-xiang-mo-kuai-hua-quan-gu-tai-2pan-wei-4pan#profileId-1587950
+
+
