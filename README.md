@@ -47,5 +47,4 @@ https://makerworld.com/en/models/2421341-itx-compatible-nas-case?from=search#pro
 https://makerworld.com/en/models/1376602-reinforced-dark-edition-4-bay-nas-supporting-itx-m?from=search
 
 https://makerworld.com/en/models/2352676-4-bay-nas-case-sfx-power-supply-matx-motherboard?from=search#profileId-2573193
-
 https://makerworld.com/en/models/2302558-nas-4-bay-case-for-standard-itx-170-170?from=search#profileId-2513191
