@@ -12,8 +12,8 @@ Requirements:
     
 *   at least somewhat appealing design, not just a slapped together box
     
-<table style="undefined;table-layout: fixed; width: 1621px"><colgroup>
-<col style="width: 278px">
+<table style="undefined;table-layout: fixed; width: 1544px"><colgroup>
+<col style="width: 201px">
 <col style="width: 157px">
 <col style="width: 251px">
 <col style="width: 120px">
@@ -28,7 +28,7 @@ Requirements:
     <th>Image</th>
     <th>Drives</th>
     <th>PSU</th>
-    <th>Extra Hardware &amp; Parts</th>
+    <th>Extra Parts</th>
     <th>Notes</th>
   </tr></thead>
 <tbody>
