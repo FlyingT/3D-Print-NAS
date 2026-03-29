@@ -12,7 +12,16 @@ Requirements:
     
 *   at least somewhat appealing design, not just a slapped together box
     
-<table><thead>
+<table style="undefined;table-layout: fixed; width: 1773px"><colgroup>
+<col style="width: 155px">
+<col style="width: 155px">
+<col style="width: 155px">
+<col style="width: 155px">
+<col style="width: 251px">
+<col style="width: 501px">
+<col style="width: 401px">
+</colgroup>
+<thead>
   <tr>
     <th>Name</th>
     <th>Link</th>
