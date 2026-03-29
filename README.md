@@ -12,10 +12,10 @@ Requirements:
     
 *   at least somewhat appealing design, not just a slapped together box
     
-<table style="undefined;table-layout: fixed; width: 1871px"><colgroup>
+<table style="undefined;table-layout: fixed; width: 1621px"><colgroup>
 <col style="width: 278px">
 <col style="width: 157px">
-<col style="width: 501px">
+<col style="width: 251px">
 <col style="width: 120px">
 <col style="width: 182px">
 <col style="width: 246px">
@@ -35,7 +35,7 @@ Requirements:
   <tr>
     <td>"OG" by FlyingT</td>
     <td><a href="https://www.printables.com/model/226439-network-storage-4-bay-35-itx-nas">Printables</a> / <a href="https://makerworld.com/en/models/42651-network-storage-4-bay-3-5-itx-nas#profileId-384704">Makerworld</a></td>
-    <td><img src="https://makerworld.bblmw.com/makerworld/model/USb548954765bbf5/design/2023-10-16_qnrcg4nc01b3.jpg?x-oss-process=image/resize,w_1000/format,webp" alt="Image" width="120"></td>
+    <td><img src="https://makerworld.bblmw.com/makerworld/model/USb548954765bbf5/design/2023-10-16_qnrcg4nc01b3.jpg?x-oss-process=image/resize,w_1000/format,webp" alt="Image" width="120" height="81"></td>
     <td>4x 3,5"</td>
     <td>Flex-ATX</td>
     <td>None</td>
@@ -44,7 +44,7 @@ Requirements:
   <tr>
     <td>"NOOS" by Pokzy</td>
     <td><a href="https://makerworld.com/en/models/1847543-nas-case-noos-mini-itx-6-8-bays-pico-flex-psu#profileId-1974457">Makerworld</a></td>
-    <td><img src="https://makerworld.bblmw.com/makerworld/model/US2e6b34df61adbc/design/2025-10-01_65df285f1e726.jpg?x-oss-process=image/resize,w_1000/format,webp" alt="Image" width="120"></td>
+    <td><img src="https://makerworld.bblmw.com/makerworld/model/US2e6b34df61adbc/design/2025-10-01_65df285f1e726.jpg?x-oss-process=image/resize,w_1000/format,webp" alt="Image" width="120" height="80"></td>
     <td>4x 3,5" + 2x 2,5"</td>
     <td>Flex-ATX</td>
     <td>None</td>
@@ -53,7 +53,7 @@ Requirements:
   <tr>
     <td>"Sleek*" by DIY_3D</td>
     <td><a href="https://makerworld.com/en/models/2447439-4-bay-nas-case-itx-sfx#profileId-2686523">Makerworld</a></td>
-    <td><img src="https://makerworld.bblmw.com/makerworld/model/USdb495b95b24df0/design/8d2594c7babaf5ae.png" alt="Image" width="120"></td>
+    <td><img src="https://makerworld.bblmw.com/makerworld/model/USdb495b95b24df0/design/8d2594c7babaf5ae.png" alt="Image" width="120" height="90"></td>
     <td>4x 3,5"</td>
     <td>SFX</td>
     <td>4x SAS-SATA Adapter</td>
@@ -235,8 +235,8 @@ Requirements:
 Printable Caddys:
 
 *   Dell: [https://makerworld.com/en/models/779768-no-part-installation-daier-daier-hard-drive-tray-s#profileId-721932](https://makerworld.com/en/models/779768-no-part-installation-daier-daier-hard-drive-tray-s#profileId-721932)
-*   Huawei: 
+*   Huawei: https://makerworld.com/en/models/1165457-3-5-inch-server-hard-drive-caddy-huawei-compatible#profileId-1172692
     
 
 \*some Names are made-up, if the creator didnt name them.  
-Made with [jekyllpad](https://www.jekyllpad.com/tools/online-markdown-wysiwyg-editor)
+Made with [tablesgenerator](https://www.tablesgenerator.com/html_tables#)
