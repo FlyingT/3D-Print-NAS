@@ -14,11 +14,10 @@ The list has been moved to [Google Sheets](https://docs.google.com/spreadsheets/
 
 [![3D-Print-NAS Teaser](https://github.com/FlyingT/3D-Print-NAS/blob/main/Teaser.png?raw=true)](https://docs.google.com/spreadsheets/d/1hD1hSavEfwSTJ3hY1r_P37-hqRkqqBagGjUWjJsEd3k/edit?usp=sharing)
 
-\*some Names are made-up, if the creator didnt name them.  
+\*some names are made-up, if the creator didnt name them.  
 
 Printable Caddys:
 
-*   Dell: [https://makerworld.com/en/models/779768-no-part-installation-daier-daier-hard-drive-tray-s#profileId-721932](https://makerworld.com/en/models/779768-no-part-installation-daier-daier-hard-drive-tray-s#profileId-721932)
-*   Huawei: https://makerworld.com/en/models/1165457-3-5-inch-server-hard-drive-caddy-huawei-compatible#profileId-1172692
+*   [Dell 3,5"](https://makerworld.com/en/models/779768-no-part-installation-daier-daier-hard-drive-tray-s#profileId-721932)
+*   [Huawei 3,5"](https://makerworld.com/en/models/1165457-3-5-inch-server-hard-drive-caddy-huawei-compatible#profileId-1172692)
     
-
