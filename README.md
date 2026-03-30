@@ -1,6 +1,6 @@
 # 3D-Print-NAS
 
-Collection of 3D-printable NAS cases, please open an issue or leave a comment on this [Reddit Thread](https://www.reddit.com/r/3DPPC/comments/1ryxkxf/im_trying_to_list_all_3dprintable_nas_models/) if you think this list is missing something!
+Collection of 3D-printable NAS cases, please [open an issue](https://github.com/FlyingT/3D-Print-NAS/issues/new/choose) or leave a comment on this [Reddit Thread](https://www.reddit.com/r/3DPPC/comments/1ryxkxf/im_trying_to_list_all_3dprintable_nas_models/) if you think this list is missing something!
 
 Requirements:
 
